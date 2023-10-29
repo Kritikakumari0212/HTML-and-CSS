@@ -1,0 +1,55 @@
+body{
+   /* background-color: blueviolet; */
+   /*background-image: url(national-moon-day.jpg)*/
+}
+h1{
+    background-color: aqua;
+    color:brown;
+}
+p{
+    background-color: green;
+    color: black;
+}
+#paragraph{
+    background-color:blue;
+    color: aliceblue;
+}
+#heading{
+    background-color:brown;
+    color:gold;
+}
+.headingstyle{
+    background-color: hotpink;
+    color: slateblue;
+}
+div{
+    background-color: hotpink;
+    opacity: 50%;
+}
+.dotted{
+    border-style:dotted;
+    width:55px;
+}
+.solid{
+    border-style:solid;
+}
+.double{
+    border-style:double;
+    border-color: brown;
+}
+.inset{
+    border-style:inset;
+}
+.margins{
+    border:1px solid;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left:80px;
+    margin-right:150px;
+}
+div{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
