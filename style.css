@@ -53,3 +53,23 @@ div{
     padding-left: 50px;
     padding-right: 50px;
 }
+
+#boxmodels{
+    background-color: brown;
+    border:15px solid darkblue;
+    width: 300px;
+    margin: 20px;
+    padding: 50px;
+}
+
+.align{
+    text-align: center;
+}
+
+.space{
+    line-height: 3;
+}
+
+.spaceword{
+    letter-spacing: 15px;
+}
